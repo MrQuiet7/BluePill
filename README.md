@@ -5,6 +5,12 @@ My custom STM32 Blue Pill redesign created in KiCad 9 (40×75 mm, 2-layer PCB) �
 
 This is a **custom PCB design** for the STM32F103C8T6 microcontroller (“Blue Pill”) created in **KiCad 9**.
 
+```markdown
+![PCB](Photos/PCB.png)
+![Front](Photos/Front.png)
+![Back](Photos/Back.png)
+
+
 ## 🧠 Overview
 A modern redesign of the classic Blue Pill board, intended for easier prototyping and better reliability.
 
